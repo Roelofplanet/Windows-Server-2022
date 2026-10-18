@@ -27,4 +27,5 @@ This project focuses on building and configuring a Windows Server 2022 infrastru
 
 ### Images
 
+Organizational Units (OUs) for computers and users
 <img width="1526" height="875" alt="org_units" src="https://github.com/user-attachments/assets/33251486-b875-43a0-bf14-2e3a464c7d18" />
