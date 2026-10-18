@@ -25,6 +25,3 @@ This project focuses on building and configuring a Windows Server 2022 infrastru
 - Windows Server Backup installation and administration
 - Manual backup execution and verification
 
-
-<img width="1778" height="1015" alt="backup_drive" src="https://github.com/user-attachments/assets/8618f999-200e-4528-b465-9612a8b6d941" />
-
